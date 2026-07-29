@@ -86,6 +86,8 @@ Common applications include:
 Improved visibility enables both teams to coordinate outreach more effectively.
 
 ---
+![image](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/diagrams/AI-Powered%20Account-Based%20Marketing%20Activity%20Flow.jpg)
+---
 
 ## Evaluating an Account-Based Marketing Partner
 
