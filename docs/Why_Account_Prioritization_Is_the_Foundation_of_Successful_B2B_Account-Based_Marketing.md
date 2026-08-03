@@ -2,7 +2,7 @@
 
 Modern B2B organizations often manage hundreds or even thousands of potential accounts. However, not every account offers the same opportunity for revenue growth. Effective account prioritization enables marketing and sales teams to focus their efforts on organizations that best align with business objectives, resulting in more efficient resource allocation and stronger customer relationships.
 
-A successful **B2B Account Based Marketing** strategy begins with identifying, evaluating, and prioritizing high-value accounts before launching personalized engagement initiatives.
+A successful [**B2B Account Based Marketing**](https://vereigenmedia.com/account-based-marketing/) strategy begins with identifying, evaluating, and prioritizing high-value accounts before launching personalized engagement initiatives.
 
 ---
 
@@ -24,6 +24,8 @@ Common prioritization factors include:
 
 This structured approach supports more focused marketing and sales execution.
 
+---
+![image](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/images/Why_Account_Prioritization_is_the_Foundation_of_Successfuk_B2B_Account-Based_Marketing.png)
 ---
 
 ## Why Account Prioritization Matters
@@ -76,9 +78,8 @@ Common data sources include:
 
 Using multiple data points provides a more complete understanding of account readiness.
 
-Learn more about Account-Based Marketing:
-https://vereigenmedia.com/account-based-marketing/
-
+---
+![diagram](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/diagrams/Account_Prioritization_workflow_for_ABM.png)
 ---
 
 ## Aligning Marketing and Sales
@@ -156,4 +157,4 @@ Account prioritization is one of the most important elements of successful **Acc
 Whether implementing **B2B Account Based Marketing Services**, working with an **Account Based Marketing Agency**, or building an internal **B2B Account Based Marketing** program, a structured account prioritization strategy creates a stronger foundation for long-term business growth.
 
 For additional insights into how account prioritization drives better B2B sales outcomes, read:
-https://vereigenmedia.com/how-account-prioritization-drives-better-results-in-b2b-sales/
+[**How Account Prioritization Drives Better Results in B2B Sales**](https://vereigenmedia.com/how-account-prioritization-drives-better-results-in-b2b-sales/)
