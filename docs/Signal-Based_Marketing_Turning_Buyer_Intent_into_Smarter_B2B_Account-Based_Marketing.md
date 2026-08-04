@@ -23,6 +23,8 @@ Common buying signals include:
 These insights help teams engage prospects with greater precision.
 
 ---
+![image](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/images/Signal-Based_Marketiing_Turning_Buyer_Intent_into_B2B_Account-Based_Marketing.png)
+---
 
 ## Why Buyer Intent Matters
 
@@ -91,6 +93,8 @@ Important considerations include:
 
 The right expertise supports long-term ABM success.
 
+---
+![diagram](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/diagrams/Signal-Based_Marketing_Acitivity_Flow.png)
 ---
 
 ## Best Practices
