@@ -23,6 +23,8 @@ Common challenges include:
 Strategic planning provides a foundation for more focused and measurable ABM execution.
 
 ---
+![image](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/images/ABM_Strategy_Template_7_Activities_Planning_for_Revenue_Growth.png)
+---
 
 ## Seven Core ABM Planning Activities
 
@@ -199,6 +201,8 @@ ABM emphasizes account quality, personalization, and revenue outcomes rather tha
 
 This account-centric approach makes ABM particularly useful when organizations have defined high-value customer profiles and complex B2B buying processes.
 
+---
+![diagram](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/diagrams/ABM_Strategy_Planning_Workflow.png)
 ---
 
 ## What Makes an ABM Program Repeatable?
