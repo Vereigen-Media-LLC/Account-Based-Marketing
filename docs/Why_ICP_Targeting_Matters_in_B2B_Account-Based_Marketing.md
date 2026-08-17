@@ -2,7 +2,9 @@
 
 Personalization is often treated as the foundation of modern B2B marketing. However, personalization becomes less effective when it is applied to the wrong audience. Before developing personalized campaigns, organizations need to determine which accounts actually fit their business objectives.
 
-A clearly defined Ideal Customer Profile (ICP) provides the foundation for **B2B Account Based Marketing** by identifying the companies most likely to benefit from a solution. Strong ICP targeting helps **B2B Account Based Marketing Services** teams focus personalization, messaging, and engagement efforts on accounts with greater potential value.
+A clearly defined Ideal Customer Profile (ICP) provides the foundation for **B2B Account Based Marketing** by identifying the companies most likely to benefit from a solution. Strong ICP targeting helps [**B2B Account Based Marketing Services**](https://vereigenmedia.com/account-based-marketing/) teams focus personalization, messaging, and engagement efforts on accounts with greater potential value.
+
+![image](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/images/Why_ICP_Targeting_Matters_in_B2B_ABM.png)
 
 ## What Is ICP Targeting?
 
@@ -103,6 +105,8 @@ Account prioritization can consider:
 - Buying-stage indicators
 
 This allows ABM teams to allocate resources according to account value and potential.
+
+![diagram](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/diagrams/ICP_Targetting_in_ABM_workflow.png)
 
 ## ICP and Personalization
 
@@ -218,5 +222,4 @@ By combining precise ICP definition with account prioritization, intent signals,
 For organizations evaluating an **Account Based Marketing Agency** or building an internal ABM program, ICP targeting should remain a core part of the strategy.
 
 For further reading:
-
-https://vereigenmedia.com/personalization-is-broken-why-icp-targeting-matters/
+[***Personalization Is Broken: Why ICP Targeting Matters More Than Messaging***](https://vereigenmedia.com/personalization-is-broken-why-icp-targeting-matters/)
