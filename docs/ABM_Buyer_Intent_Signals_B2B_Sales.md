@@ -2,7 +2,7 @@
 
 B2B buyers leave digital signals before they are ready to speak with sales. These signals can include content engagement, website activity, research behavior, topic interest, and repeated interactions with business resources. When organizations connect these activities to account intelligence, they can build a clearer view of potential buying activity.
 
-**B2B Account Based Marketing** uses account-level intelligence to focus marketing and sales resources on organizations that fit the ideal customer profile. Buyer intent data can strengthen this process by helping teams identify accounts that may be actively researching relevant topics or solutions.
+[**B2B Account Based Marketing**](https://vereigenmedia.com/account-based-marketing/) uses account-level intelligence to focus marketing and sales resources on organizations that fit the ideal customer profile. Buyer intent data can strengthen this process by helping teams identify accounts that may be actively researching relevant topics or solutions.
 
 ## Buyer Intent Signals B2B Sales: From Signals to Opportunities
 
@@ -76,6 +76,8 @@ A typical process can follow:
 9. Measure account-level outcomes.
 10. Refine targeting based on results.
 
+![image](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/images/ABM_Buyer_Intent_Signals_B2B_Sales.png)
+
 ## Types of Buyer Intent Signals
 
 ### First-Party Signals
@@ -143,6 +145,8 @@ Personalization can be aligned with:
 - Buying stage
 
 The goal is to make communication more relevant without assuming that a single signal represents a confirmed buying decision.
+
+![diagram](https://github.com/Vereigen-Media-LLC/Account-Based-Marketing/blob/main/diagrams/Signal_to_Opportunity_Activity_Flow.png)
 
 ## The Role of a B2B Account Based Marketing Agency
 
@@ -246,14 +250,6 @@ By connecting **B2B Account Based Marketing Services** with intent monitoring an
 
 For organizations evaluating an **Account Based Marketing Agency**, a signal-based approach can provide a framework for turning behavioral information into actionable account intelligence.
 
-## Image Title
-
-**Buyer Intent Signals B2B Sales: From Intent Data to Revenue Opportunities**
-
-## UML Diagram Title
-
-**Buyer Intent Signals B2B Sales: Signal-to-Opportunity Activity Flow**
-
 ## Reference
+[***Buyer Intent Data Explained: How B2B Leaders Turn Signals Into Sales***](https://vereigenmedia.com/buyer-intent-data-turn-b2b-signals-into-sales-opportunities/)
 
-https://vereigenmedia.com/buyer-intent-data-turn-b2b-signals-into-sales-opportunities/
